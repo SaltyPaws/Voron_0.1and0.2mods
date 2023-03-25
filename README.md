@@ -10,7 +10,7 @@ https://github.com/MotorDynamicsLab/LDOVoron01/blob/main/STLs/Kirigami
 
 LDO orbiter with filament sensor
 
-150F bed fuse (used red gasket maker to install to bed)
+150F 15A bed fuse (used red gasket maker to install to bed)
 
 cable guide to prevent rubbing on belts
 
@@ -18,10 +18,15 @@ Cable Management Duct
 https://www.teamfdm.com/files/file/426-cable-management-duct/
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ryandam/Cable_management_duct
 
+Camera Mount
+https://github.com/Timo3D/Voron-0.1-Internal-Pi-Camera-V2-Mount
 
-
-
-Socket
+Back Skirt Power Inlet
+https://cults3d.com/en/3d-model/gadget/voron-0-1-back-skirt-power-inlet
 
 V0.1 parts except for:
 gantry joints, X carriage, toolhead where 0.2 parts are used.
+
+Future:
+One part Skirt
+https://github.com/VoronDesign/VoronUsers/commit/fd705cd31cdd1d4bb5ec7f81056157374768e29b
