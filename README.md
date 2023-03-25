@@ -16,6 +16,10 @@ cable guide to prevent rubbing on belts
 
 Cable Management Duct
 https://www.teamfdm.com/files/file/426-cable-management-duct/
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ryandam/Cable_management_duct
+
+
+
 
 Socket
 
