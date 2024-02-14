@@ -8,6 +8,9 @@ https://docs.ldomotors.com/en/voron/voron01/kirigami_guide
 https://github.com/christophmuellerorg/voron_0_kirigami_bed
 https://github.com/MotorDynamicsLab/LDOVoron01/blob/main/STLs/Kirigami
 
+Framce Brace
+https://www.printables.com/model/508931-voron-0-01-02-door-stabilizers-two-magnet
+
 LDO orbiter with filament sensor
 
 150F 15A bed fuse (used red gasket maker to install to bed)
